@@ -1,0 +1,37 @@
+body{
+    background-color: #FDFBF3;
+    margin:0;
+    padding: 0;
+    z-index: 2;
+    font-family: AppleGothic,CenturyGothic, sans-serif; ;
+
+}
+button{
+    color:rgb(239, 202, 54);
+    font-weight:500;
+    font-style:oblique;
+    text-align: center;
+    border:20px;
+    border-radius: 0.5em;
+    font-family: "Century Gothic" ;
+    background-color: rgb(2, 14, 28);
+    padding: 10px;
+}
+.container1{
+    position:relative;
+    
+}
+image{
+    width: 100%;
+    height: auto;
+
+}
+.container2{
+    color:white;
+    position:absolute;
+    width: max-content;
+    height: 10%;
+    background-color: black;
+    opacity:0.6;
+    bottom:0;
+}
